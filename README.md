@@ -1,6 +1,6 @@
 ALL BECAUSE THIS VIDEO: https://www.youtube.com/watch?v=PIWSyUHD_nk
 
- Copyright (C) 2016 Johnjimy Som <johnjimysom@yahoo.com>
+ Copyright © 2016 Johnjimy Som <johnjimysom@yahoo.com>
                     Shinesunny Som <som.sunny@yahoo.com>
 
 This work is free. You can redistribute it and/or modify it under the
